@@ -11,7 +11,8 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
-    "should": "*"
+    "should": "*",
+    "browserify": "*"
   },
   "optionalDependencies": {}
 }
